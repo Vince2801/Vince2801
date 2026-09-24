@@ -2,7 +2,7 @@
 
 **Vince2801/Vince2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some things about me :
+Here are some of my projects :
 
  . 🤖 Smart Student Safety Monitoring System. I developed an ESP32-S3 AI camera system with IR speed detection, OLED display, traffic-light safety indicator and Telegram alerts. I won Gold in a competition with 40+ teams.
  
